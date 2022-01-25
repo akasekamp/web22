@@ -11,9 +11,10 @@ main {
   width: 50vw;
   margin: 25px auto;
   display: flow-root;
+  text-align: center;
 }
 .col {
-  float: left;
+  text-align: center;
 }
 h1 {
   font-size: 250%;
@@ -37,10 +38,8 @@ ul {
   color: #7FB900;
   font-family: 'Readex Pro', sans-serif;
   line-height: 30px;
-  margin: 0px;
-  padding: 0px;
-  padding-left: 75px;
   list-style: none;
+  text-align: center;
 }
 a:link {
   color: #96D60B;
