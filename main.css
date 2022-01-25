@@ -1,6 +1,6 @@
 body {
   background-color: #DFFF9A;
-  margin-top: 75px;
+  margin-top: 65px;
 }
 header {
   width: 50vw;
@@ -16,26 +16,26 @@ main {
   float: left;
 }
 h1 {
-  font-size: 50px;
+  font-size: 250%;
   font-family: 'Homemade Apple', cursive;
-  color: #96D60B;
+  color: #598F0B;
 }
 .boxed {
   border: 5px solid white;
   text-align: center;
-  width: 550px;
+  width: 80%;
 }
 h2 {
   font-size: 25px;
-  color: #96D60B;
+  color: #7FB900;
   line-height: 30px;
-  font-family: 'Work Sans', sans-serif;
+  font-family: 'Readex Pro', sans-serif;
   padding-left: 75px;
 }
 ul {
   font-size: 16px;
-  color: #239FBE;
-  font-family: 'Work Sans', sans-serif;
+  color: #96D60B;
+  font-family: 'Readex Pro', sans-serif;
   line-height: 30px;
   margin: 0px;
   padding: 0px;
@@ -43,16 +43,16 @@ ul {
   list-style: none;
 }
 a:link {
-  color: #239FBE;
+  color: #96D60B;
 }
 a:visited {
-  color: #0A738E;
+  color: #7FB900;
 }
 a:hover {
-  color: #0A738E;
+  color: #598F0B;
 }
 a:active {
-  color: #239FBE;
+  color: #96D60B;
 }
 @media screen and (max-width: 500px) {
   .col {
