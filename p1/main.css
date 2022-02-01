@@ -29,12 +29,21 @@ h1 {
   width: 80%;
 }
 ul {
-  font-size: 25px;
+  font-size: 15px;
   color: #7FB900;
   font-family: 'Readex Pro', sans-serif;
   line-height: 30px;
   list-style: none;
-  text-align: center;
+  text-align: left;
+  padding-left: 75px;
+}
+h2 {
+  font-size: 25px;
+  color: #598F0B;
+  line-height: 30px;
+  font-family: 'Readex Pro', sans-serif;
+  text-align: left;
+  padding-left: 75px;
 }
 a:link {
   color: #96D60B;
