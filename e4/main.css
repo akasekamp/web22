@@ -1,0 +1,43 @@
+body {
+  background-color: #F04CB4;
+  margin: 0;
+  font-size: 32px;
+}
+p {
+  line-height: .1em;
+  font-family: 'Quicksand', sans-serif;
+  color: #FFD9F1
+}
+.bigger {
+  text-align: center;
+}
+div {
+  margin-top: 40vh;
+}
+.mobile-only {
+  display: none;
+  text-align: center;
+}
+#hates {
+  color: red;
+}
+#heart {
+  color: black;
+  margin-top: 50px;
+}
+
+
+@media only screen and (max-width: 768px) {
+  body {
+    background-color: Black;
+  }
+  p {
+    color: White;
+  }
+  .mobile-only {
+    display: block;
+  }
+  .desktop-only {
+    display: none;
+  }
+}
